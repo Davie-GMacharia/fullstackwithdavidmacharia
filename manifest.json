@@ -1,0 +1,24 @@
+{
+  "name": "David Macharia — Full Stack Developer",
+  "short_name": "D. Macharia",
+  "description": "Kenyan full stack developer, web app expert, and IT specialist. Full stack development, web apps, databases, networking and IT support.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1210",
+  "theme_color": "#0D1210",
+  "dir": "ltr",
+  "lang": "en",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Get an Estimate", "url": "#/estimate", "description": "Calculate a project budget" },
+    { "name": "Contact David", "url": "#/contact", "description": "Call, WhatsApp or email" }
+  ]
+}
